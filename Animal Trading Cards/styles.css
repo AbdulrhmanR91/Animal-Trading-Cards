@@ -1,0 +1,24 @@
+     .big_box {   border: 4.5px solid burlywood;
+      
+                    padding: 10px;
+      
+                     margin: auto;
+      
+                      width:350px;
+      
+                      text-align: center;
+                           
+                      background-color:white}
+
+
+        .small_box {   border:1.5px solid black;
+  
+                         width:18em;
+        
+                         height:32.5em;
+        
+                        padding: 28.5px;
+                     }   
+        
+                                              
+          .p{text-align: left;}
